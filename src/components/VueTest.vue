@@ -1,7 +1,7 @@
 <template>
   <div>
-      <h1>Vue Delpoy Test by shin</h1>
-      <div>Wow netlify!</div>
+      <h1>Vue Test by shin</h1>
+      <div>Wow netlify! deploy best!!</div>
   </div>
 </template>
 
